@@ -1,0 +1,2 @@
+SET run32BitClient "1"
+SET realmlist "127.0.0.1"
